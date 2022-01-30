@@ -1,0 +1,11 @@
+# Plugin Settings
+despawn-cooldown: 600
+all-players-notification: 300
+
+# Database Connection
+database:
+    host: "localhost"
+    login: "admin"
+    password: "123"
+    databaseName: "death_chests"
+    port: 27017

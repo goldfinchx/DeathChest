@@ -1,0 +1,6 @@
+name: DeathChest
+version: '${version}'
+main: ru.goldfinch.deathchest.DeathChest
+api-version: 1.18
+authors: [Goldfinch]
+description: Spawn chest with player's loot, after his death
